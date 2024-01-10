@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: Lab exam
 featured-img: sleek
 mathjax: true
 ---
